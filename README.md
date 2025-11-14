@@ -1,16 +1,45 @@
-## Hi there 👋
+# Welcome to Joe Corner's GitHub
 
-<!--
-**Joe-Corner/Joe-Corner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Swansea University | BSc Computer Science | Third Year**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a passionate computer science student with a strong interest in software development, computer architecture, and cyber security. I enjoy building solutions to real problems and experimenting with new technologies.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- **Proficient:** Java, Python, PHP  
+- **Experience with:** C, C++, Bash, Haskell, Ada, Prolog  
+
+### Industry Tools & Technologies
+- **Operating Systems:** Windows & Linux (including WSL and CLIs)  
+- **Version Control:** Git  
+- **DevOps:** Docker  
+- **Web Frameworks:** Laravel  
+- **IDEs:** VSCode, IntelliJ, Visual Studio  
+- **Office Tools:** Microsoft Office  
+
+### Core Competencies
+- Collaborative Software Development  
+- Computer Architecture & Hardware  
+- Computer Logic  
+- Mathematics & Physics  
+
+---
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/joe-corner)  
+- [Email](mailto:joseph.w.corner@gmail.com)
+- [Codewars](https://www.codewars.com/users/jcorner)
+
+  
+![Codewars Badge](https://www.codewars.com/users/jcorner/badges/large)
+
+---
+
+## GitHub Stats
+![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe-Corner&show_icons=true&theme=radical)
