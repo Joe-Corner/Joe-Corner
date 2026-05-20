@@ -33,7 +33,7 @@ I'm a passionate computer science student with a strong interest in software dev
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/joe-corner)  
-- [Email](mailto:joseph.w.corner@gmail.com)
+- [Email](mailto:joseph.w.corner@outlook.com)
 - [Codewars](https://www.codewars.com/users/jcorner)
 
   
